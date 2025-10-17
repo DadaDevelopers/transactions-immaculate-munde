@@ -1,0 +1,20 @@
+
+=== Transaction Details ===
+Version: 2
+Number of Inputs: 1
+Number of Outputs: 2
+Locktime: 918339
+
+Inputs:
+  TXID: c1368b8e3daedf15612b0185f79f4e82df90f6bcd93714e0e057c355d31c8131
+  Vout: 1
+  ScriptSig: 
+  Sequence: 4294967293
+
+Outputs:
+  Output 1:
+    Value: 0.005 BTC
+    ScriptPubKey: 001485d78eb795bd9c8a21afefc8b6fdaedf71836809
+  Output 2:
+    Value: 0.010507 BTC
+    ScriptPubKey: 0014840ab165c9c2555d4a31b9208ad806f89d2535e2
